@@ -2,6 +2,8 @@ PresentAR
 ==========
 A presentation aid for AR.
 
+Demo here: http://slides.com/mengchenwang/presentar#/
+
 The website component to this app can be found here:
 https://presentar.herokuapp.com/
 
@@ -22,3 +24,10 @@ Vuforia is an Augmented Reality Software Development Kit (SDK) for mobile device
 Tested using:
 ----
 - NUnit
+
+Team:
+----
+- Luan van Pletsen
+- Mengchen Wang
+- James Stubbs
+- Zoë Hopkins
